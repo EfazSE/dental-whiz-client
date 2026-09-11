@@ -1,10 +1,6 @@
 # DentalWhiz Service Review Website
 
 
-### Live Link: 
-
-https://dental-whiz-website.web.app/
-
 ### Features
 
 * A full stack dental service review website
